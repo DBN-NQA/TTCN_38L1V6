@@ -5,9 +5,9 @@
 Đồ án xây dựng phần mềm quản lý thông tin cư dân, căn hộ, hóa đơn điện/nước, phí dịch vụ và tiếp nhận phản ánh.
 
 ## 2. Công nghệ sử dụng
-- Backend: 
-- Frontend: 
-- Database: MySQL / SQL Server
+- Backend: Spring Boot
+- Frontend: ReactJs
+- Database: MySQL 
 
 ## 3. Các chức năng chính
 - Quản lý căn hộ & tòa nhà
@@ -15,7 +15,3 @@
 - Tính toán & xuất hóa đơn dịch vụ hàng tháng
 - Phân quyền (Admin / Ban quản lý / Cư dân)
 
-## 4. Hướng dẫn cài đặt và chạy thử
-1. Clone repo: 
-2. Cấu hình file database trong :
-3. Chạy ứng dụng trên cổng :
